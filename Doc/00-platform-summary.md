@@ -1,23 +1,23 @@
-# Platform Summary
+# TinyMillion – Platform Summary
 
-## What TinyMillion is
-TinyMillion is a platform that enables creators/sellers to launch their own mini-storefront under a shared ecosystem.
+TinyMillion is a creator- and seller-first multi-store e-commerce ecosystem designed to give
+every creator, influencer, or small seller their own **Mini-Store** with full branding,
+pricing control, and direct access to their audience.
 
-## Key Modules
-1. **Storefront (Customer App)**
-   - Browse products, add to cart, checkout, track orders.
+Unlike traditional marketplaces, TinyMillion focuses on **creator ownership**, **co-branding**,
+and **long-term business growth**, while the platform handles technology, payments, security,
+and scalability.
 
-2. **Mini-Admin (Seller Dashboard)**
-   - Add/manage products, manage inventory, process orders, see analytics.
+## Core Modules
+1. Customer Storefront – Shopping experience
+2. Seller Mini-Admin – Store & business management
+3. Global Admin – Platform governance
 
-3. **Global Admin (Platform Dashboard)**
-   - Seller onboarding, verification, platform metrics, dispute handling, payouts control.
+## Vision
+To build India’s largest creator-commerce ecosystem where creators own their audience,
+brand, and growth.
 
-## Multi-Store Model
-- Each seller has a unique store identity (storeId/slug).
-- Products and orders are scoped to a store while the platform maintains global governance.
-
-## Monetization (High Level)
-- Commission on sales
-- Subscription for advanced features/tools (optional)
-- Ads/featured placement (optional)
+## Status
+- Live MVP
+- Real sellers and customer orders
+- Actively scaling with AI features
