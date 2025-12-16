@@ -5,6 +5,8 @@ Live Website: https://tinymillion.com
 Founder: Aryan Sharma
 Tagline: For the One in a Million
 
+Demo Video Link Overview:https://drive.google.com/file/d/196z4GxNJPG9p0IW-yfZfO-3dEz0w65Ts/view?usp=sharing
+
 # Overview
 
 TinyMillion is a multi-store e-commerce platform designed to empower individual sellers, creators, and influencers to launch and scale their own online stores without technical complexity.
